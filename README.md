@@ -1,2 +1,3 @@
 # Shippping-Validation
-Dog shit tkniter gui for my old job
+
+tkniter gui for my old QC job that simply recorded outgoing skids that had been validated by me.
